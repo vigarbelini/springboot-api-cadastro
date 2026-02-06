@@ -39,7 +39,7 @@ implementando operações completas de CRUD com persistência em MySQL.
 
 <p>
 Projeto desenvolvido com foco em aprendizado de arquitetura REST,
-integração com banco de dados utilizando JPA/Hibernate
+integração com banco de dados utilizando JPA/Hibernate, teste de EndPoints pelo Postman
 e aplicação de boas práticas de organização e segurança.
 </p>
 
